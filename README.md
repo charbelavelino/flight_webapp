@@ -2,10 +2,10 @@
 # YT ->> https://www.youtube.com/watch?v=ihBdLUuCU0Q&list=PLeIJUF3PiXDcYS1F2sDIoiq6qBZuZavPc
 
 # Installation 
-npx create-react-app flight_webapp
-cd flight_webapp
-npm install
-npm run build
+# npx create-react-app flight_webapp
+# cd flight_webapp
+# npm install
+# npm run build
 
 ## Next part of the process
 # Push the empty project to the github
