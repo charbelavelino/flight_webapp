@@ -7,7 +7,6 @@
 # npm install
 # npm run build
 
-## Next part of the process
-# Push the empty project to the github
+
 
 
